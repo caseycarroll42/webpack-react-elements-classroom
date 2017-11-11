@@ -1,0 +1,28 @@
+{
+  "name": "redux-posts",
+  "version": "1.0.0",
+  "description": "trying to set up react from scratch",
+  "main": "index.js",
+  "author": "Casey",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --watch-content-base"
+  },
+  "dependencies": {
+    "babel-plugin-transform-custom-element-classes": "^0.1.0",
+    "react": "^16.1.0",
+    "react-dom": "^16.1.0",
+    "webpack": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "clean-webpack-plugin": "^0.1.17",
+    "file-loader": "^1.1.5",
+    "html-webpack-plugin": "^2.30.1",
+    "webpack-dev-server": "^2.9.4"
+  }
+}
