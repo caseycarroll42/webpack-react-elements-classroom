@@ -24,7 +24,7 @@ const config = {
           }
         },
         {
-          test:/\.html$/,
+          test:/\.(html|css)$/,
           use: [
             {
               loader: 'file-loader',

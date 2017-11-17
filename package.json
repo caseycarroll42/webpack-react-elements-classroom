@@ -13,6 +13,7 @@
     "babel-plugin-transform-custom-element-classes": "^0.1.0",
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
+    "react-shadow": "^16.1.0",
     "webpack": "^3.8.1"
   },
   "devDependencies": {
